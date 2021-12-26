@@ -2,7 +2,7 @@
 
 
 
-## **Linguagens**
+## **⚙️ Linguagens**
 
 <p align="center">
   
@@ -19,9 +19,10 @@
     
   </div>
   </p>
+
+
   
-  
-## **Ferramentas**
+## **🛠️ Ferramentas**
 <p align="center">
   
   <div align="center">
@@ -44,3 +45,20 @@
     
   </div>
   </p>
+  
+ ## **📊 Github Status**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&theme=gotham&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&theme=gotham&line_height=10">
+</p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Romenildo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+
+## **�📞 Contato**
+
+<p align="center">
+  
+</p>
