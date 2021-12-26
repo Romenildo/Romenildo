@@ -51,7 +51,7 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,dcdce0,ffffff&theme=graywhite&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,ffffff,ADD8E6,79b6ba,3e7f98&theme=graywhite&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,ADD8E6,ffffff&theme=graywhite&line_height=10">
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Romenildo&bg_color=dcdce0&color=000000&line=00BFFF&point=ffffff&area=true&hide_border=true) 
@@ -59,11 +59,12 @@
 
 ## **📞 Contato**
 
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/site-7FFFD4?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://https://github.com/Romenildo"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:Romenildoferreira@gamil.com"><img src="https://img.shields.io/badge/gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
- [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/)
  
 
