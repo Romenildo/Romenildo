@@ -49,6 +49,7 @@
   <img height="50" title="VUE JS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     
   <img height="50" title="BOOTSTRAP" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img title = "SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
     
   <img height="50" title="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img height="50" title="GITHUB" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -83,4 +84,4 @@
   <a href="mailto:Romenildoferreira@gamil.com"><img src="https://img.shields.io/badge/gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
  
-
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=Romenildo&margin-w=15theme=dark)
