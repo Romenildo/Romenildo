@@ -79,7 +79,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/site-7FFFD4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://https://github.com/Romenildo"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Romenildo"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/romenildo-ferreira-3679561a2/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:Romenildoferreira@gamil.com"><img src="https://img.shields.io/badge/gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
