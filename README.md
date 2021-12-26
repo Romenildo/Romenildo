@@ -1,5 +1,16 @@
 [![](https://github.com/Romenildo/Romenildo/blob/main/imgs/profile.png)](https://github.com/Romenildo)
 
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BEM+VINDOS+AO+MEU+GITHUB;DESENVOLVIMENTO+WEB;ESTUDANTE+CIÊNCIAS+DA+COMPUTACÃO;SEMPRE+BUSCANDO+NOVAS+TECNOLOGIAS;&center=true&width=500&height=50&font=georgia"></a>
+</p>
+<hr/>
+<h4 align="center">Atualmente estou cursando ciências da computação na<i> UNIVERSIDADE ESTADUAL DA PARAIBA</i>. Foco principalmente no desenvolvimento de software tanto para web quanto Android/IOS. Sempre buscando me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Romenildo&label=Romenildo's%20Profile%20Views%20&color=008B8B&style=plastic" /> </p>
+
+## 🔥 Atividade
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romenildo&theme=vue"/></p>
 
 
 ## **⚙️ Linguagens**
@@ -48,13 +59,19 @@
   
  ## **📊 Github Status**
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,dcdce0,ffffff&theme=graywhite&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,ADD8E6,ffffff&theme=graywhite&line_height=10">
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Romenildo&bg_color=dcdce0&color=000000&line=00BFFF&point=ffffff&area=true&hide_border=true) 
+<details> 
+  <summary><b>Mostrar</b></summary>
+  <br/>
+  <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,dcdce0,ffffff&theme=graywhite&line_height=33">
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,ADD8E6,ffffff&theme=graywhite&line_height=10">
+  <p>
+      <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=Romenildo&bg_color=dcdce0&color=000000&line=00BFFF&point=ffffff&area=true&hide_border=true" />
+  <br/>
+  </p>
+  </p>
+</details>
 
 
 ## **📞 Contato**
@@ -62,7 +79,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/site-7FFFD4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://https://github.com/Romenildo"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Romenildo"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:Romenildoferreira@gamil.com"><img src="https://img.shields.io/badge/gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
