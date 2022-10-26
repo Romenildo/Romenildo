@@ -1,12 +1,17 @@
 [![](https://github.com/Romenildo/Romenildo/blob/main/imgs/profile.png)](https://github.com/Romenildo)
 
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BEM+VINDOS+AO+MEU+GITHUB;DESENVOLVIMENTO+WEB;ESTUDANTE+CIÊNCIAS+DA+COMPUTACÃO;SEMPRE+BUSCANDO+NOVAS+TECNOLOGIAS;&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">Atualmente estou cursando ciências da computação na<i> UNIVERSIDADE ESTADUAL DA PARAIBA</i>. Foco principalmente no desenvolvimento de software tanto para web quanto Android/IOS. Sempre buscando me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Romenildo&label=Romenildo's%20Profile%20Views%20&color=008B8B&style=plastic" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Romenildo&label=Romenildo's%20Profile%20Views%20&color=008B8B&style=plastic" /> </p>-->
+
+
+ ### 📈  Profile Views                                                         
+![Moe-counter](https://count.getloli.com/get/@Romenildo.github?theme=rule34)
 
 ## 🔥 Atividade
 
@@ -85,3 +90,5 @@
 
  
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=Romenildo&margin-w=15theme=dark)
+
+
