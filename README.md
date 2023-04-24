@@ -18,52 +18,68 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romenildo&theme=vue"/></p>
 
 
-## **⚙️ Linguagens**
+## **➕ SKILLS**
 
-<p align="center">
+<table align="center">
+  <thead align="center">
+    <tr>
+      	<td><b>🖥 Technologies</b></td>
+	<td><b>⭐ Skills</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td align="center" > <b>📱Front-end</b></td>
+	    <td>
+		    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+		    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+		    <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+		    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+		    <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+		    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+		    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+		    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+		    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+		    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
+		    <img alt="next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" /> 
+	    </td>
+    </tr>
+    <tr>
+	   <td align="center"  > <b>🎚 Back-end</b></td>
+	     <td width="750px">
+		    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+		    <img alt="espress" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+		    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+		    <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+		    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=java&logoColor=white" />
+		    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+		    <img alt="tokens" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+		    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+		    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+		    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+		    <img alt="firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=flat-square&logo=firebase&logoColor=white" />
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" > <b>💾 knowledges</b></td>
+	     <td >
+		    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+		    <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+		    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+		    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+		    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+		    <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+		    <img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+		    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+		    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+		    <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+		    <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+	    </td>
+    </tr>
+  </tbody>
+</table>
   
-  <div align="center">
-    
-  <img height="50" title="HTML 5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img height="50" title="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img height="50" title="JAVASCRYPT" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img height="50" title="TYPESCRYPT" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img height="50" title="JAVA"src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img height="50" title="PYTHON"src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img height="50" title="SQL"src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
-    
-  </div>
-  </p>
-
-
-  
-## **🛠️ Ferramentas**
-<p align="center">
-  
-  <div align="center">
-   
-  <img height="50" title="NODE JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img height="50" title="SPRING" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    
-  <img height="50" title="MONGO DB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img height="50" title="POSTGRESQL"src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    
-  <img height="50" title="REACT" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img height="50" title="ANGULAR JS" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img height="50" title="VUE JS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-    
-  <img height="50" title="BOOTSTRAP" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img title = "SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
-    
-  <img height="50" title="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img height="50" title="GITHUB" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img height="50" title="HEROKU" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-    
-  </div>
-  </p>
-  
- ## **📊 Github Status**
+ ## **🟰📊 Github Status**
 
 <details> 
   <summary><b>Mostrar</b></summary>
