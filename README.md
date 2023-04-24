@@ -7,16 +7,14 @@
 <hr/>
 <h4 align="center">Atualmente estou cursando ciências da computação na<i> UNIVERSIDADE ESTADUAL DA PARAIBA</i>. Foco principalmente no desenvolvimento de software tanto para web quanto Android/IOS. Sempre buscando me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
 <br>
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Romenildo&label=Romenildo's%20Profile%20Views%20&color=008B8B&style=plastic" /> </p>-->
 
 
- ### 📈  Profile Views                                                         
-![Moe-counter](https://count.getloli.com/get/@Romenildo.github?theme=rule34)
+[![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/)
+[![Website Badge](https://img.shields.io/badge/Romenildo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=/)](/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
 
-## 🔥 Atividade
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Romenildo&theme=vue"/></p>
-
+---   
 
 ## **➕ SKILLS**
 
@@ -78,6 +76,12 @@
     </tr>
   </tbody>
 </table>
+
+---   
+
+## **➕ ACTIVITIES**
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Romenildo&theme=transparent&hide_border=true&card_width=497"/></p>
   
  ## **🟰📊 Github Status**
 
@@ -89,25 +93,19 @@
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,ADD8E6,ffffff&theme=graywhite&line_height=10">
   <p>
       <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Romenildo&bg_color=dcdce0&color=000000&line=00BFFF&point=ffffff&area=true&hide_border=true" />
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Romenildo&theme=react-dark" />
   <br/>
   </p>
   </p>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Romenildo&margin-w=0theme=dark"/></P>
 </details>
 
-
-<h3 align = "center">📞 Contato</h3>
-<p align="center">
-  <a href=""><img src="https://img.shields.io/badge/site-7FFFD4?style=for-the-badge&logo=google&logoColor=white"/></a>
-  <a href="https://https://github.com/Romenildo"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/romenildo-ferreira-3679561a2/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:Romenildoferreira@gamil.com"><img src="https://img.shields.io/badge/gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+---   
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
  
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=Romenildo&margin-w=15theme=dark)
+
 
 
