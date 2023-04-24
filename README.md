@@ -7,7 +7,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+MY+GITHUB;COMPUTER+SCIENCE+STUDENT;WEB+DEVELOPMENT;ALWAYS+LOOKING+FOR+NEW+TECHNOLOGIES;FULL+STACK;&center=true&height=50&font=georgia"></a>
 </p>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Romenildo.Romenildo">
 ## Hi I'm Romenildo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/)
 [![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
