@@ -3,7 +3,7 @@
 
 <!--[![](https://github.com/Romenildo/Romenildo/blob/main/imgs/profile.png)](https://github.com/Romenildo)-->
 
-<p >
+<p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+MY+GITHUB;COMPUTER+SCIENCE+STUDENT;WEB+DEVELOPMENT;ALWAYS+LOOKING+FOR+NEW+TECHNOLOGIES;FULL+STACK;&center=true&height=50&font=georgia"></a>
 </p>
 
@@ -86,7 +86,10 @@ Welcome to me github profile, I am a student
 
 ## **➕ COURSES**
 
-<table>
+<details> 
+  <summary><b>Show</b></summary>
+  <br/>
+  <table>
   <thead align="center">
     <tr>
       	<td><b>📚 COURSES</td>
@@ -114,6 +117,10 @@ Welcome to me github profile, I am a student
     </tr>
   </tbody>
 </table>
+  
+</details>
+
+
 <br/>
 
 ---
@@ -129,7 +136,7 @@ Welcome to me github profile, I am a student
  ## **🟰📊 Github Status**
 
 <details> 
-  <summary><b>Mostrar</b></summary>
+  <summary><b>Show</b></summary>
   <br/>
   <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&theme=vue-dark&line_height=40">
