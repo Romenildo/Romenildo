@@ -100,22 +100,68 @@ Welcome to me github profile, I am a student
     </tr>
   </thead>
   <tbody>
+   <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="/" target="_blank">
+			    Next.js e React - Curso Completo - Aprenda com Projetos(in progress)
+		    </a>
+	    </td>
+    </tr>
     <tr>
 	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
 	    <td>
-		    teste
+		    <a href="/" target="_blank">
+			    React - The Complete Guide (incl Hooks, React Router, Redux)(in progress)
+		    </a>
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="https://www.udemy.com/certificate/UC-9ba5ea72-c7b2-4b5a-b6a2-66ef40fecda4/" target="_blank">
+			    Node.js do Zero a Maestria com diversos Projetos
+		    </a>
 	    </td>
     </tr>
     <tr>
 	   <td align="center"  >  <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
 	     <td>
-		teste
+		<a href="https://www.udemy.com/certificate/UC-8eb37280-e186-4831-b6b1-6ef39e806bfe/" target="_blank">
+			    Formação Angular + Spring Boot
+		    </a>
 	    </td>
     </tr>
     <tr>
 	    <td align="center" >  <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
 	     <td >
-		    teste
+		    <a href="https://www.udemy.com/certificate/UC-e41c9125-eaa1-4526-ac2d-35be05732e40/" target="_blank">
+			    Curso React + Redux: Fundamentos e 2 Apps 
+		    </a>
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="https://www.udemy.com/certificate/UC-ceccf2ac-12a0-486c-98ed-b3b53fc10565/" target="_blank">
+			    REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker
+		    </a>
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="https://www.udemy.com/certificate/UC-26760cec-d4b2-41e5-92bc-d3c4dd920980/" target="_blank">
+			    Curso Web Moderno Completo com JavaScript 2022
+		    </a>
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" ><img alt="npm" src="https://img.shields.io/badge/-Uniesp-CB3837?style=flat-square&logo=npm&logoColor=white" /></td>
+	    <td>
+		    <a href="https://github.com/Romenildo/Treinamento-GIT/blob/master/certificates/netAngular.png" target="_blank">
+			    Extensão .Net Angular
+		    </a>
 	    </td>
     </tr>
   </tbody>
