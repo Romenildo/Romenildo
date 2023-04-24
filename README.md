@@ -1,18 +1,22 @@
-[![](https://github.com/Romenildo/Romenildo/blob/main/imgs/profile.png)](https://github.com/Romenildo)
 
+![header](https://capsule-render.vercel.app/api?type=wavING&color=0:7FFFD4,100:00FFFF&height=150&section=header&text=Romenildo%20Ferreira&fontSize=35&desc=Web%20Development&animation=twinkling&fontColor=ddd&fontAlignY=30)
 
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BEM+VINDOS+AO+MEU+GITHUB;DESENVOLVIMENTO+WEB;ESTUDANTE+CIÊNCIAS+DA+COMPUTACÃO;SEMPRE+BUSCANDO+NOVAS+TECNOLOGIAS;&center=true&width=500&height=50&font=georgia"></a>
+<!--[![](https://github.com/Romenildo/Romenildo/blob/main/imgs/profile.png)](https://github.com/Romenildo)-->
+
+<p >
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+MY+GITHUB;COMPUTER+SCIENCE+STUDENT;WEB+DEVELOPMENT;ALWAYS+LOOKING+FOR+NEW+TECHNOLOGIES;FULL+STACK;&center=true&height=50&font=georgia"></a>
 </p>
-<hr/>
-<h4 align="center">Atualmente estou cursando ciências da computação na<i> UNIVERSIDADE ESTADUAL DA PARAIBA</i>. Foco principalmente no desenvolvimento de software tanto para web quanto Android/IOS. Sempre buscando me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
-<br>
 
+## Hi I'm Romenildo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/)
+[![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Romenildo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=/)](/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
+
+Welcome to me github profile, I am a student
+<br>
+
 
 ---   
 
@@ -44,7 +48,7 @@
     </tr>
     <tr>
 	   <td align="center"  > <b>🎚 Back-end</b></td>
-	     <td width="750px">
+	     <td width="600px">
 		    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 		    <img alt="espress" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
 		    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -76,21 +80,60 @@
     </tr>
   </tbody>
 </table>
+<br/>
 
 ---   
 
+## **➕ COURSES**
+
+<table>
+  <thead align="center">
+    <tr>
+      	<td><b>📚 COURSES</td>
+	<td><b>🖋 NAME</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    teste
+	    </td>
+    </tr>
+    <tr>
+	   <td align="center"  >  <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	     <td>
+		teste
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" >  <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	     <td >
+		    teste
+	    </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+---
+
 ## **➕ ACTIVITIES**
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Romenildo&theme=transparent&hide_border=true&card_width=497"/></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Romenildo&theme=vue-dark&hide_border=true&card_width=497"/></p>
   
+ <br/>
+ 
+ ---
+ 
  ## **🟰📊 Github Status**
 
 <details> 
   <summary><b>Mostrar</b></summary>
   <br/>
   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,dcdce0,ffffff&theme=graywhite&line_height=33">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=scss,css,,ejs&&text_color=000&icon_color=000&bg_color=0,3e7f98,79b6ba,ADD8E6,ffffff&theme=graywhite&line_height=10">
+     <img src="https://github-readme-stats.vercel.app/api?username=Romenildo&count_private=true&show_icons=true&theme=vue-dark&line_height=40">
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romenildo&count_private=true&hide=scss,css,,ejs&theme=vue-dark&line_height=10">
   <p>
       <br/>
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Romenildo&theme=react-dark" />
@@ -99,11 +142,9 @@
   </p>
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Romenildo&margin-w=0theme=dark"/></P>
 </details>
-
----   
-
+<br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:00FFFF&height=100&section=footer"/>
 </p>
  
 
