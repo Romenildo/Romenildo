@@ -11,13 +11,15 @@
 
 ## Hi I'm Romenildo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
+Welcome to me github profile, I am a computer science student at the <a href="https://uepb.edu.br"> Universidade Estadual da Paraíba (UEPB)</a> in Brazil.
+I am an aspiring full-stack software developer, I really like the web development area and I'm learning with projects and courses new ways to build better applications with good User Design and performances. I have experience in college internship of one year of developing a web application in scrum teams.
 
+```Please feel free to reach out if this sounds interesting! ```   
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/)
 [![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Romenildo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=/)](/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
-
-Welcome to me github profile, I am a student
 <br>
 
 
@@ -203,7 +205,7 @@ Welcome to me github profile, I am a student
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:00FFFF&height=100&section=footer"/>
 </p>
 
-<h2 align="center">💠 Repositories 💠</h2>
+<h2 align="center">💠 REPOSITORIES 💠</h2>
 <br>
 <div width="100%" align="center">
   <a align="left"  href="https://github.com/Romenildo/Livroteria" title="Livroteria"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=Livroteria&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Romenildo/ng-rodoviaria" title="ng-rodoviaria"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=ng-rodoviaria&theme=react&border_color=61dafb&border_radius=10"></a>
