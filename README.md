@@ -153,6 +153,27 @@ Welcome to me github profile, I am a student
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:00FFFF&height=100&section=footer"/>
 </p>
+
+<h2 align="center">💠 Repositories 💠</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left"  href="https://github.com/Romenildo/Livroteria" title="Livroteria"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=Livroteria&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Romenildo/ng-rodoviaria" title="ng-rodoviaria"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=ng-rodoviaria&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Romenildo/admin-template" title="admin-template"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=admin-template&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Romenildo/pet-front" title="pet-front"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=pet-front&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Romenildo/Livroteria-back" title="Livroteria-back"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=Livroteria-back&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Romenildo/pet-api" title="pet-api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Romenildo&repo=pet-api&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Romenildo?tab=repositories" title="Show Repositories">💠 Show More 💠</a>
+</h4>
  
 
 
