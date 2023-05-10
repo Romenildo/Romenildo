@@ -159,6 +159,22 @@ I am an aspiring full-stack software developer, I really like the web developmen
 	    </td>
     </tr>
     <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="https://www.udemy.com/certificate/UC-e6352ce7-613f-486f-b3b9-c5e4683c86bd/" target="_blank">
+			    React - The Complete Guide (incl Hooks, React Router, Redux)
+		    </a>
+	    </td>
+    </tr>
+    <tr>
+	    <td align="center" > <img alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white" /></td>
+	    <td>
+		    <a href="https://www.udemy.com/certificate/UC-59db9c5a-5dd3-4478-9e8d-d35bd3d26aef/" target="_blank">
+			    Next.js e React - Curso Completo - Aprenda com Projetos
+		    </a>
+	    </td>
+    </tr>
+    <tr>
 	    <td align="center" ><img alt="npm" src="https://img.shields.io/badge/-Uniesp-CB3837?style=flat-square&logo=npm&logoColor=white" /></td>
 	    <td>
 		    <a href="https://github.com/Romenildo/Treinamento-GIT/blob/master/certificates/netAngular.png" target="_blank">
