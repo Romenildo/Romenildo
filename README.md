@@ -15,8 +15,10 @@ Welcome to me github profile, I am a computer science student at the <a href="ht
 I am an aspiring full-stack software developer, I really like the web development area and I'm learning with projects and courses new ways to build better applications with good User Design and performances. I have experience in college internship of one year of developing a web application in scrum teams.
 
 ```Please feel free to reach out if this sounds interesting! ```   
+<!-- /* [![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/) */-->
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Romenildo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romenildo-ferreira-3679561a2/)](romenildo-ferreira-3679561a2/)
+
+
 [![Gmail Badge](https://img.shields.io/badge/-romenildoferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Romenildo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=/)](/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=mailto:romenildoferreira@gmail.com)](mailto:romenildoferreira@gmail.com)
